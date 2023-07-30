@@ -1,7 +1,7 @@
 import os
 import shutil
 
-f = open("descPath.txt", "r")
+f = open("deskPath.txt", "r")
 
 src_folder = f.readline().strip()
 dest_folder = src_folder + f.readline().strip()
