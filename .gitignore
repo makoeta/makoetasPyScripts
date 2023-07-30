@@ -1,0 +1,8 @@
+# File for descCleaner
+descPath.txt
+
+*.spec
+
+dist/*
+venv/*
+build/*
