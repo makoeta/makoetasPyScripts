@@ -6,3 +6,4 @@ deskPath.txt
 dist/*
 venv/*
 build/*
+idea/*
